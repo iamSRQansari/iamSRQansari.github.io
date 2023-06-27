@@ -67682,7 +67682,7 @@ A.EN.prototype={
 G(a){var s,r,q,p,o=null,n="AbadiExtraLight",m=A.b2(a,o,t.w).w.a,l=m.b,k=A.vI(0,A.G9(new A.eV(A.fw("assets/photos/black-white.png",o,m.a<1200?l*0.75:l*0.85),B.aN,B.be,B.h,o),0.9),o,o,o,0,o,o),j=$.b9,i=t.p,h=A.dS(A.a([A.bl("WELCOME TO MY PORTFOLIO! ",o,o,o,o,o,o,o,$.oa.jy("Montserrat"),o,o,o),new A.eV(A.fw("assets/hi.gif",o,$.b9*12*0.77+12),B.cM,B.be,B.h,o)],i),B.p,B.aY),g=$.fD
 g.toString
 s=A.bl("Ansari",o,o,o,o,o,o,o,$.Sl.jy(n),o,o,o)
-r=A.bl("Mohammed Sharique",o,o,o,o,o,o,o,$.adC.Jx(n,$.b9*25*0.77+25,1),o,o,o)
+r=A.bl("Mohammed&nbsp;Sharique",o,o,o,o,o,o,o,$.adC.Jx(n,$.b9*25*0.77+25,1),o,o,o)
 q=A.dS(A.a([A.my(B.h2,$.cB.a,o),A.adA(A.a([A.dU(" Software Engineer",B.O,$.cA),A.dU(" Java",B.O,$.cA),A.dU(" Flexible with Languages",B.O,$.cA),A.dU(" PL/SQL",B.O,$.cA),A.dU(" Language Enthusiast",B.O,$.cA),A.dU(" Flutter",B.O,$.cA)],t.u6),!0,!1)],i),B.p,B.v)
 p=$.a3g
 p.toString
